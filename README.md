@@ -1,29 +1,33 @@
-# Tata-Group-Data-Visualisation-Empowering-Business-with-Effective-Insights-Resume-Snippet
 
-Tata Group Data Visualization: Empowering Business with Effective Insights
-Project Overview:
+### **Tata Data Visualization Virtual Experience Program**
 
-Developed comprehensive data visualizations using Tableau and Power BI to analyze key business metrics for a retail company.
-Focused on visualizing performance, revenue trends, customer insights, and global distribution of sales.
-Delivered insights that directly helped stakeholders make informed decisions based on accurate, visual data.
-Key Responsibilities:
+**Program Overview:**
+- Participated in the **Tata Insights and Quants Virtual Experience Program**, where I applied data visualization techniques to real-world business problems, using tools like **Tableau** and **Power BI**.
+- Gained hands-on experience framing business scenarios, choosing the right visuals, creating impactful dashboards, and effectively communicating business insights to senior leaders.
 
-# Data Cleaning & Preparation:
-Loaded raw data from multiple sources (e.g., transaction history, customer data).
-Cleaned data for inconsistencies, missing values, and performed transformations using Tableau and Power BI’s built-in functions.
-# Visualization Development:
-Created line charts, side-by-side bar charts, map charts, and column charts to represent key business metrics such as:
-Monthly revenue trends for 2011.
-Revenue and quantity comparison by country (excluding UK).
-# Top 10 customers by revenue.
-Units sold by region, with a map visualization.
-# Advanced Analysis & Insights:
-Analyzed seasonal trends in revenue, uncovering insights about customer purchasing behaviors.
-Focused on top-performing regions and customers, providing actionable insights for future business strategies.
-Excluded specific regions, like the United Kingdom, to tailor the analysis to more relevant markets.
-# Presentations & Reporting:
-Presented findings to senior management, providing context to data trends and helping leadership forecast business decisions for the upcoming year.
-Shared visuals and analysis via Tableau Public and Power BI, ensuring data accessibility across teams.
-Technologies Used:
+### **Key Tasks:**
+1. **Framing the Business Scenario**:
+   - Drafted 8 relevant questions for the **CEO** and **CMO** of an online retail store to identify key business metrics that would guide expansion strategies. Focused on both operational and marketing perspectives, ensuring alignment with leadership priorities.
 
-Tableau, Power BI, Excel, SQL.
+2. **Choosing the Right Visuals**:
+   - Selected and recommended the most effective visualization methods for presenting critical business metrics, such as **time series** for revenue, **regional demand insights**, and **top customers by revenue**.
+
+3. **Creating Effective Visuals**:
+   - Cleaned and transformed raw business data using **Tableau** and **Power BI**. 
+   - Developed visuals for key business questions, including:
+     - Revenue trends by month for 2011.
+     - Top 10 countries by revenue (excluding UK).
+     - Top 10 customers by revenue, sorted in descending order.
+     - Global product demand by region, highlighting high-potential markets.
+   - Ensured data integrity by checking for anomalies such as returns with negative quantities and unit prices below $0.
+
+4. **Communicating Insights and Analysis**:
+   - Created a **5-minute video presentation** summarizing the analysis, including insights from the data, and how these insights would inform the **CEO’s** and **CMO’s** decision-making on expansion and strategic planning.
+
+### **Tools and Skills Used:**
+- **Tableau**, **Power BI**, **Excel**
+- Data transformation, visualization design, and data storytelling.
+
+### **Results:**
+- Delivered clear, actionable insights that would help the CEO and CMO make informed decisions regarding expansion opportunities and strategic growth.
+- Produced accurate, visually compelling reports that presented business metrics in an easy-to-understand format.
